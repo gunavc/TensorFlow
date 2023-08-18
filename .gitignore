@@ -1,7 +1,11 @@
-model.png
 linear_model.h5
-medical_costs.csv
-pizza_steak
-linear_model
+pizza_steak/
+linear_model/
 .DS_Store
 .ipynb_checkpoints/
+*.jpeg
+*.csv
+*.jpeg
+*.png
+10_food_classes_all_data/
+multi-class-cnn/
