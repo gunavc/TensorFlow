@@ -10,3 +10,4 @@ linear_model/
 10_food_classes_all_data/
 multi-class-cnn/
 10_food_classes_10_percent/
+__pycache__/
